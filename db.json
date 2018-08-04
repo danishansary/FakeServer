@@ -25,38 +25,6 @@
 			"otpCode": "155497",
 			"expired": "2018-08-02T16:14:25.956+0000"
 		}
-	},
-	"verify-otp":{
-
-		"status":{
-			"code": 200,
-			"message": "Success"
-		}
-
-	},
-	"registration-SCB":{
-		"httpStatusCode": 0,
-		"urmid": "BKDIQZFZ",
-		"scblifeCustomer": false
-
-	},
-	"registration-NonSCB":{
-
-		"httpStatusCode": 0,
-		"urmid": "DBCDS99D",
-		"scblifeCustomer": false
-
-	},
-	"get-CustomerData":{
-
-		"status": {
-			"code": 200,
-			"message": "Success"
-		},
-		"customer": {
-			"emailVerify": false
-		}
-
 	}
 
 
